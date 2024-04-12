@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+<img width="581" alt="EDN EX5 2" src="https://github.com/Mythili7339267708/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/144260246/41dd3930-2263-46a7-abce-4d59a24e7270">
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
